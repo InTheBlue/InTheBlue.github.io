@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dan Writes]]></title>
-  <link href="http://InTheBlue.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Personal | Dan Writes]]></title>
+  <link href="http://InTheBlue.github.io/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://InTheBlue.github.io/"/>
   <updated>2013-05-08T19:38:10+00:00</updated>
   <id>http://InTheBlue.github.io/</id>
@@ -18,9 +18,9 @@
     <link href="http://InTheBlue.github.io/blog/2013/05/08/introduction/"/>
     <updated>2013-05-08T19:08:00+00:00</updated>
     <id>http://InTheBlue.github.io/blog/2013/05/08/introduction</id>
-    <content type="html"><![CDATA[<p>My name is Daniel Wright and I&#8217;m a Computer Science undergraduate at Nottingham Trent University, currently on Industrial Placement at ARM as a Software Engineer.</p>
+    <content type="html"><![CDATA[<p>My name is Daniel Wright and I'm a Computer Science undergraduate at Nottingham Trent University, currently on Industrial Placement at ARM as a Software Engineer.</p>
 
-<p>I&#8217;ll be using this blog to post things I hope that someone else will find useful or interesting including: Software Development, Python, Git, Photography and Food.</p>
+<p>I'll be using this blog to post things I hope that someone else will find useful or interesting including: Software Development, Python, Git, Photography and Food.</p>
 ]]></content>
   </entry>
   
