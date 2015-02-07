@@ -1,0 +1,12 @@
+# Site settings
+title: InTheBlue
+email: danwright91 at gmail dot com
+description: > # this means to ignore newlines until "baseurl:"
+    British-based Software Engineer with an interest in InfoSec
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://intheblue.github.io" # the base hostname & protocol for your site
+twitter_username: DanielWright
+github_username:  InTheBlue
+
+# Build settings
+markdown: kramdown
